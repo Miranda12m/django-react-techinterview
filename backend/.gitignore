@@ -1,0 +1,11 @@
+# Byte-compiled files
+*.pyc
+
+# Local development settings
+local_settings.py
+
+# Database
+db.sqlite3
+
+# Virtual environment
+env01/
